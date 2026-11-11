@@ -58,4 +58,4 @@ Custom choices that shape this tool:
 
 This hides data from casual view; it is not undetectable. Statistical steganalysis can flag LSB embedding, and anyone with the password + this tool extracts the message. Use it for learning and CTF-style work, not as a secrecy guarantee.
 
-*Built by Prashant Shrestha · Mississauga, ON 🇨🇦 · [LinkedIn](https://www.linkedin.com/in/cto-prashant/)*
+*Built by Prashant Shrestha · Mississauga, ON 🇨🇦 · [LinkedIn](https://www.linkedin.com/in/prashant-me/)*
